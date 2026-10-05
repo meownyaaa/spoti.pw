@@ -1,6 +1,6 @@
 # Patches your decrypted Spotify IPA with a release's kit, the way chroma.pw/patch does in a browser.
 # Nothing is compiled, so it runs on Linux in about a minute.
-name: Build IPA from your own Spotify IPA
+name: Buiasasdld IPA from your own Spotify IPA
 
 on:
   workflow_dispatch:
